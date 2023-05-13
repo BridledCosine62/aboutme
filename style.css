@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(49, 49, 49)
+}
+p {
+    font-family: sans-serif;
+}
+.title {
+    text-align: center;
+    margin-top: 90px;
+    color: white;
+}
+.foot {
+    text-align: center;
+    color: white;
+}
